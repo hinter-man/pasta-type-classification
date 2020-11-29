@@ -2,7 +2,7 @@
 
 ## Contributors
 
-- Penn David (S1910454045)
+- Penn David (S1910454023)
 - Hinterreiter Manuel (S1910454015)
 
 ## Start jupyter notebook container
